@@ -1,4 +1,5 @@
 # rogue
+<img width="912" height="644" alt="rogue og" src="https://github.com/user-attachments/assets/aaf5b4cf-a4d0-453f-b034-80505ef12562" />
 
 A roguelike game built from scratch in Python, using the [python-tcod](https://python-tcod.readthedocs.io/) library for the terminal-style display and event handling.
 
